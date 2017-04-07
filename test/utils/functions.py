@@ -2,8 +2,8 @@ from unittest import TestCase
 
 import pir.utils.functions
 
-class TestFunctions(TestCase):
 
+class TestFunctions(TestCase):
     def setUp(self):
         pass
 
